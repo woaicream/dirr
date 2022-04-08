@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../untitled1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/../untitled1/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuzi1/shuzi1.iml" filepath="$PROJECT_DIR$/shuzi1/shuzi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuzu/shuzu.iml" filepath="$PROJECT_DIR$/shuzu/shuzu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two/two.iml" filepath="$PROJECT_DIR$/two/two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two/two1.iml" filepath="$PROJECT_DIR$/two/two1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled11/untitled11.iml" filepath="$PROJECT_DIR$/untitled11/untitled11.iml" />
+    </modules>
+  </component>
+</project>
